@@ -4,7 +4,7 @@ const result = document.getElementById('result')
 
 
 /// api URL ///
-const apiURL = 'https://api.lyrics.ovh';
+const apiURL = 'https://api.lyrics.ovh/';
 
 
 /// adding event listener in form
